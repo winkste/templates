@@ -1,16 +1,9 @@
-# templates
-This is a repository to handle all my source and design templates.
-
-# Templates 
+# Name of Project 
 
 ## Introduction
-This is a repository to handle all my source and design templates.
+enter a short introduction here
 ### Index
-- C .c.h source files
-- Icon and brandings
-- Cover banners
-- Python .py source files
-- GitHub readme template
+- index of modules, features, components, scripts, schematics
 
 ## Getting Started
 
@@ -18,11 +11,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-None
+anything to setup prior to the build work
 
 ### Installing
 
 Clone or download the project to your local PC or notebook. 
+...
+
 
 ## Testing
 
@@ -34,24 +29,27 @@ Minimal coding styles used. See the code.
 
 ## Deployment
 
-None
+Deployed as ... files.
 
 ## Built With
 
-None
+* [MAC OSx 10.14.6](https://apple.com) - Apple.
+* [MS Code](https://code.visualstudio.com) - Microsoft Visual Studio Code.
+* [Python: 3.8.0 64 Bit](https://www.python.org) - Python interpreter.
 
 ## Contributing
 
-n/a
+n/a.
 
 ## Versioning
 
-n/a
+TBD
 
 ## Authors
 
 * **Stephan Wink** - *Initial work* - [WShield](https://github.com/winkste)
 
+TBD: See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
