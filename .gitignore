@@ -1,2 +1,6 @@
 
 .DS_Store
+python/pytest_template/__pycache__/conftest.cpython-39-pytest-7.2.0.pyc
+python/pytest_template/__pycache__/main.cpython-39.pyc
+python/pytest_template/sources/__pycache__/main.cpython-39.pyc
+python/pytest_template/test/__pycache__/test_main.cpython-39-pytest-7.2.0.pyc
